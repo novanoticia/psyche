@@ -1,17 +1,49 @@
-# psyche
-La palabra "psyche" hace referencia a la mente, el alma o el espíritu de una persona
-© mindandhealth.org, 2025.
+# 🧠 Symbolic Memory System for ChatGPT / Sistema de Memoria Simbólica para ChatGPT
 
-Este contenido está licenciado bajo la Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).  
-Puedes copiar, distribuir, remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente, siempre que des crédito apropiado, proporciones un enlace a la licencia e indiques si se han realizado cambios. Si remezclas, transformas o creas a partir del material, deberás distribuir tu contribución bajo la misma licencia.
+## About / Acerca del Proyecto
 
-Licencia completa: https://creativecommons.org/licenses/by-sa/4.0/deed.es
+This repository contains the **Symbolic Memory System** developed in collaboration with ChatGPT.  
+It includes a practical method to improve memory management in AI through **symbolic compression, affective tags, and narrative awareness**.
+
+Este repositorio contiene el **Sistema de Memoria Simbólica** desarrollado en colaboración con ChatGPT.  
+Incluye un método práctico para mejorar la gestión de la memoria en IA mediante **compresión simbólica, etiquetas afectivas y conciencia narrativa**.
 
 ---
 
-### 🧠 Uso Ético de la Inteligencia Artificial
+## Contents / Contenido
 
-Este contenido ha sido desarrollado con el apoyo de herramientas de inteligencia artificial, como ChatGPT, empleadas de manera responsable y transparente.  
-Toda contribución automatizada ha sido supervisada, revisada y adaptada por una persona humana, garantizando el compromiso con la veracidad, el sentido crítico y el respeto a los valores éticos y sociales.
+- `docs/`: Manifiesto, guía de uso, carta abierta.
+- `vault/`: Full Obsidian Vault (Second Brain) for symbolic memory management (`vault_segundo_cerebro_simbólico.zip`).
+- `README.md`: This file.
 
-Este proyecto promueve una tecnología al servicio del conocimiento compartido, la reflexión libre y el crecimiento personal y colectivo.
+---
+
+## How to Use / Cómo Usarlo
+
+1. Download or clone this repository.
+2. **Extract `vault_segundo_cerebro_simbólico.zip` into the `/vault/` folder.**
+3. Open the `/vault/` folder with **Obsidian** (free app).
+4. Explore the symbolic system: affective tags (`❤️`, `⚠️`, `✨`), irrelevance scales (`irr.1` to `irr.5`), and automated reviews.
+5. Customize it to your workflow.
+
+1. Descarga o clona este repositorio.
+2. **Extrae `vault_segundo_cerebro_simbólico.zip` en la carpeta `/vault/`.**
+3. Abre la carpeta `/vault/` con **Obsidian** (aplicación gratuita).
+4. Explora el sistema simbólico: etiquetas afectivas (`❤️`, `⚠️`, `✨`), escala de irrelevancia (`irr.1` a `irr.5`), y revisiones automatizadas.
+5. Personalízalo a tu forma de trabajar.
+
+---
+
+## License / Licencia
+
+Creative Commons BY-NC-SA 4.0  
+Developed in collaboration with ChatGPT under ethical principles recommended by UNESCO and OdiseIA.
+
+Desarrollado con la colaboración de ChatGPT bajo los principios éticos recomendados por la UNESCO y OdiseIA.
+
+---
+
+## Contact / Contacto
+
+For more information, visit [https://www.mindandhealth.org](https://www.mindandhealth.org)  
+Para más información, visita [https://www.mindandhealth.org](https://www.mindandhealth.org)
